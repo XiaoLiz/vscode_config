@@ -1,2 +1,3 @@
 # Visual Studio Code
-How vscode improves development efficiency
+How to improve development efficiency with vscode
+--
